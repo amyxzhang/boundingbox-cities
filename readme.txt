@@ -13,6 +13,12 @@
         Each city has its own line with the format:
         id    cityname    NElat    NElng    SWlat    SWlng
 
+
+ Input and output files have already been populated with 50 cities
+ as an example
+
+
+
  This code could potentially also be used, with minor tweaking, to 
  find bounding box values for entities other than cities, depending 
  on what else is available on Yahoo! PlaceFinder, such as counties 
