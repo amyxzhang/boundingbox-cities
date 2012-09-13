@@ -1,0 +1,50 @@
+New York, NY
+Washington D.C.
+Chicago, IL
+Paris, France
+London, England
+Los Angeles, CA
+San Francisco, CA
+Sao Paulo, Brazil
+Singapore, Singapore
+Kuala Lumpur, Malaysia
+Toronto, Canada
+Beijing, China
+Shanghai, China
+Jakarta, Indonesia
+Tokyo, Japan
+Seoul, South Korea
+Delhi, India
+Mumbai, India
+Mexico City, Mexico
+Manila, Philippines
+Moscow, Russia
+Cairo, Egypt
+Buenos Aires, Argentina
+Dhaka, Bangladesh
+Istanbul, Turkey
+Rio de Janeiro, Brazil
+Lagos, Nigeria
+Houston, Texas
+Philadelphia, Pennsylvania
+Phoenix, Arizona
+San Antonio, Texas
+San Diego, California
+Boston, Massachusetts
+Seattle, Washington
+Austin, Texas
+New Orleans, Louisiana
+Las Vegas, Nevada
+Montreal, Canada
+Lima, Peru
+Bogota, Colombia
+Hong Kong
+Bangkok, Thailand
+Ho Chi Minh City, Vietnam
+Hanoi, Vietnam
+Santiago, Chile
+Taipei, Taiwan
+Berlin, Germany
+Madrid, Spain
+Milan, Italy
+Melbourne, Australia
